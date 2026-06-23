@@ -9,6 +9,7 @@
 ## Tuesday, June 23
 
 ### Tasks
+- Set up test account using my personal phone number to experience the system
 - Researched how to create a call bot
 - Created guide for project to ensure all deliverables and requirements met
 - Created enviornment setup guide 
