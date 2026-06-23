@@ -37,7 +37,6 @@ Based on the call to the test line, confirmation text upon sign-up, and research
 Without prior experience and no senior developer to work with, I:
 1. Conducted research via Google and Claude on how to develop this solution
 2. In Progress: validating findings by viewing YouTube "how-to" videos
-3. Documented the complete research and design rationale in a separate document: *Research & Design Rationale*
 
 ### 3. Work Reporting Format
 
