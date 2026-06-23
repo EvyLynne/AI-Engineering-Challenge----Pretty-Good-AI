@@ -2,7 +2,7 @@
 ### Goal: <br>
 Build an automated Python voice bot that places outbound calls to Pretty Good AI’s test line, holds natural patient conversations with the AI agent, records and transcribes both sides, and surfaces bugs and quality issues in the agent’s responses.
 ## Ambiguities: <br>
-<i>If I were on a job, these questions would go to the subject matter experts, customer support team or technical team members.  I made my own assumptions in this case. </i>
+#### If I were on a job, these questions would go to the subject matter experts, customer support team or technical team members.  I made my own assumptions in this case. </i>
 <ol>
   <li>Specific services rendered by Orothopedics office missing.</li>
     <ul>Are they an independant practice, group practice, walk in clinic, hospital-based, etc?  </ul>
