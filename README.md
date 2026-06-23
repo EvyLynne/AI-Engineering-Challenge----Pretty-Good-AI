@@ -52,7 +52,7 @@ Drawing on experience working under minimal supervision, I will be maintaining a
 
 **Assumption Made:**
 No specifications were provided. Documentation follows standard software engineering conventions with clear hierarchies, versioning, and technical clarity.
-
+---
 ## Project Structure
 
 - **Main Application:** Python voice bot implementation
