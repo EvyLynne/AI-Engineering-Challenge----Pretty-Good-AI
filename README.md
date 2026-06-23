@@ -1,32 +1,68 @@
-## AI-Engineering-Challenge - Pretty-Good-AI <br>
-### Goal: <br>
-Build an automated Python voice bot that places outbound calls to Pretty Good AI’s test line, holds natural patient conversations with the AI agent, records and transcribes both sides, and surfaces bugs and quality issues in the agent’s responses.
-### Ambiguities: <br>
-#### If I were on a job, these questions would go to the subject matter experts, customer support team or technical team members.  I made my own assumptions in this case. </i>
-<ol>
-  <li>Specific services rendered by Orothopedics office missing.
-    <ul> 
-      <li> Criteria and determination:  </li>
-        <ul>   
-            <li>Are they an independant practice, group practice, walk in clinic, hospital-based, etc?   </li>
-            <li>What are their core subspecialties? Sports medicine, orthopedic trauma, spine surgery, hip & knee / joint replacement, etc?   </li>
-            <li>Based on call to test line, confirmation text upon sign up, and research on types of Orthopedic doctors, this was assumed to be an office providing general orthopedic services and not a specialty location. </li>
-        </ul> 
-    </ul>
-    </li>
-  <li>No specifications for tech stack to be used.
-    <ul>  
-        <ul>
-          <li> Criteria and determination:  </li>
-          <li>OS: Microsoft Windows 11 Pro/li>
-          <li>Processor: 11th Gen Intel(R) Core(TM)i5-11600K @ 3.90GHz, 3912 Mhz, 6 Core(s), 12 Logical Processors</li>
-          <li>RAM: 32.0 GB/li>
-      </ul>
-       </ul>   
-    <ul>Without any prior experience, I based my decision on Google & Claude resesarch on how to develop this solution and began viewing YouTube "how to" for this specific use case.  The specific process is written into dcoument, "Research & Design Rationale"</ul>
-    </li>
- <li>No guidance for work reporting - daily, weekly, when project finished?
-    <ul>Using my experience working under minimal supervision, I am keeping a daily log similar to documenting in JIRA comments.  </ul>
-   </li>
-<li>No format provided for documentation.</li>
-</ol>
+# AI-Engineering-Challenge: Pretty-Good-AI Voice Bot
+
+## Goal
+Build an automated Python voice bot that:
+- Places outbound calls to Pretty Good AI's test line
+- Holds natural patient conversations with the AI agent
+- Records and transcribes both sides of the conversation
+- Surfaces bugs and quality issues in the agent's responses
+
+---
+
+## Ambiguities & Assumptions
+
+Working without specifications from subject matter experts, customer support, or technical team members, I made the following assumptions and documented my reasoning:
+
+### 1. Orthopedic Office Services
+
+**Question:** What specific services does the orthopedic office provide?
+
+**Criteria for Determination:**
+- Is it an independent practice, group practice, walk-in clinic, or hospital-based facility?
+- What are their core subspecialties (sports medicine, orthopedic trauma, spine surgery, hip & knee / joint replacement, etc.)?
+
+**Assumption Made:**
+Based on the call to the test line, confirmation text upon sign-up, and research on types of orthopedic doctors, I assumed this is an office providing **general orthopedic services** rather than a specialty location.
+
+---
+
+### 2. Technology Stack
+
+**Question:** What technology stack should be used?
+
+**Criteria for Determination:**
+- Operating System: Microsoft Windows 11 Pro
+- Processor: 11th Gen Intel Core i5-11600K @ 3.90GHz (6 cores, 12 logical processors)
+- RAM: 32.0 GB
+
+**Decision Process:**
+Without prior experience and no senior developer to work with, I:
+1. Conducted research via Google and Claude on how to develop this solution
+2. In Progress: validating findings by viewing YouTube "how-to" videos
+3. Documented the complete research and design rationale in a separate document: *Research & Design Rationale*
+
+---
+
+### 3. Work Reporting Format
+
+**Question:** How should progress be reported—daily, weekly, or upon project completion?
+
+**Assumption Made:**
+Drawing on experience working under minimal supervision, I will be maintaining a **daily log similar to JIRA comments** for comprehensive progress tracking during the development of this portfolio project.
+
+---
+
+### 4. Documentation Format
+
+**Question:** What format should documentation follow?
+
+**Assumption Made:**
+No specifications were provided. Documentation follows standard software engineering conventions with clear hierarchies, versioning, and technical clarity.
+
+---
+
+## Project Structure
+
+- **Main Application:** Python voice bot implementation
+- **Research & Design Rationale:** Complete decision-making and technology selection process
+- **Daily Development Log:** Progress tracking and issue documentation
