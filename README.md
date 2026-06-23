@@ -24,8 +24,6 @@ Working without specifications from subject matter experts, customer support, or
 **Assumption Made:**
 Based on the call to the test line, confirmation text upon sign-up, and research on types of orthopedic doctors, I assumed this is an office providing **general orthopedic services** rather than a specialty location.
 
----
-
 ### 2. Technology Stack
 
 **Question:** What technology stack should be used?
@@ -41,8 +39,6 @@ Without prior experience and no senior developer to work with, I:
 2. In Progress: validating findings by viewing YouTube "how-to" videos
 3. Documented the complete research and design rationale in a separate document: *Research & Design Rationale*
 
----
-
 ### 3. Work Reporting Format
 
 **Question:** How should progress be reported—daily, weekly, or upon project completion?
@@ -50,16 +46,12 @@ Without prior experience and no senior developer to work with, I:
 **Assumption Made:**
 Drawing on experience working under minimal supervision, I will be maintaining a **daily log similar to JIRA comments** for comprehensive progress tracking during the development of this portfolio project.
 
----
-
 ### 4. Documentation Format
 
 **Question:** What format should documentation follow?
 
 **Assumption Made:**
 No specifications were provided. Documentation follows standard software engineering conventions with clear hierarchies, versioning, and technical clarity.
-
----
 
 ## Project Structure
 
