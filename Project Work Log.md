@@ -67,7 +67,3 @@
 **Completed:** [To be filled in when work is completed]
 
 
----
-
-## Notes for Next Week
-
