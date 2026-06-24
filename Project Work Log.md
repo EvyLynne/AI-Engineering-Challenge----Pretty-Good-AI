@@ -29,7 +29,7 @@
 ## Wednesday, June 24
 
 ### Tasks
-
+Active job search work interrupted
 ### Research
 
 ### Notes
