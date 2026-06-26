@@ -37,7 +37,7 @@ Active job search work interrupted
 ---
 
 ## Thursday, June 25
-
+- Continued education on AI Agents
 ### Tasks
 
 ### Research
